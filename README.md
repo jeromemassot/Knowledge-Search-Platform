@@ -1,4 +1,4 @@
-# GEMINI.md: Seattle Children's Hospital Knowledge Search Platform
+# Seattle Children's Hospital Knowledge Search Platform
 
 ## Project Overview
 
