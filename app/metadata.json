@@ -1,0 +1,5 @@
+{
+  "name": "Document Collection 2D Visualizer",
+  "description": "An interactive 2D graph that visualizes a collection of documents from a JSONL file, showing pages, chunks, and links as nodes, and their relationships as directed edges.",
+  "requestFramePermissions": []
+}
